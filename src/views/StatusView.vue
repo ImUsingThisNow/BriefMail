@@ -23,7 +23,7 @@
 			</div>
 		</section>
 		<div>
-		<section id="reserves" class="section-container" :style="{ 'animation-delay': animationDelay }">
+		<!-- <section id="reserves" class="section-container" :style="{ 'animation-delay': animationDelay }">
 			<div class="section-header clipped-medium-backward">
 				<img src="/icons/squad.svg" />
 				<h1>Reserves</h1>
@@ -33,8 +33,8 @@
 					<Reserve v-for="item in reserves" :key="item.name" :reserve="item" :pilots="pilots" />
 				</div>
 			</div>
-		</section>
-		<section id="clocks" class="section-container" :style="{ 'animation-delay': animationDelay }">
+		</section> 
+		<!-- <section id="clocks" class="section-container" :style="{ 'animation-delay': animationDelay }">
 			<div class="section-header clipped-medium-backward">
 				<img src="/icons/protocol.svg" />
 				<h1>Clocks</h1>
@@ -45,7 +45,7 @@
 						:animation-delay="clockAnimationDelay" />
 				</div>
 			</div>
-		</section>
+		</section> -->
 	</div>
 	</div>
 </template>
