@@ -32,7 +32,7 @@
 				<div id="system-gate-ring" class="location-row">
 					<div id="refresh">
 						<h4>Refresh</h4>
-						<span class="subtitle">{{ header.ring }}</span>
+						<span class="subtitle">{{ header.refresh }}</span>
 					</div>
 					<div id="gate">
 						<h4>Gate</h4>
