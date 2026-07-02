@@ -2,18 +2,18 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
+  "defaultTitle": "M-System/",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
+    "planet": "System Intact",
     "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
+    "system": "M-System",
+    "gate": "Subnet-555",
     "ring": "Annamite",
-    "headerTitle": "Mirrorsmoke",
-    "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "headerTitle": "DELTA SYSTEM",
+    "headerSubtitle": "Information Delivery",
+    "subheaderTitle": "Notifications",
+    "subheaderSubtitle": "Mail & Correspondence"
   },
   "pilotSpecialInfo": {}
 }
