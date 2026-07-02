@@ -11,7 +11,7 @@
 			  open>
 				<router-link class="clipped-bottom-right" to="/status">
 					<img src="/icons/orbital.svg" />
-					<span>Status</span>
+					<span>Notifications</span>
 				</router-link>
 			<!-- <router-link class="clipped-bottom-right" to="/pilots">
 					<img src="/icons/pilot.svg" />
