@@ -30,8 +30,8 @@
 					</div>
 				</div>
 				<div id="system-gate-ring" class="location-row">
-					<div id="ring">
-						<h4>Ring</h4>
+					<div id="refresh">
+						<h4>Refresh</h4>
 						<span class="subtitle">{{ header.ring }}</span>
 					</div>
 					<div id="gate">
