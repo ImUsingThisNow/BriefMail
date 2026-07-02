@@ -14,10 +14,10 @@
 			</div>
 		</div>
 		<div class="rhombus"></div>
-		<div class="planet-location-container">
+	<!--	<div class="planet-location-container">
 			<video autoplay muted loop width="90px" height="90px">
 				<source :src="`${planetPath}`" type="video/webm" />
-			</video>
+			</video> -->
 			<div class="location-info">
 				<div id="planet-year" class="location-row">
 					<div id="year">
