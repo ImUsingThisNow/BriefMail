@@ -2,8 +2,8 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "M-System/",
-  "icon": "/faction-logos/msmc.svg",
+  "defaultTitle": "DeltaSYS/",
+  "icon": "icons/conversation.svg",
   "header": {
     "planet": "System Intact",
     "year": "5017u",
