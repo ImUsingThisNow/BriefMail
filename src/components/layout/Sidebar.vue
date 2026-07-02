@@ -13,14 +13,14 @@
 					<img src="/icons/orbital.svg" />
 					<span>Status</span>
 				</router-link>
-				<router-link class="clipped-bottom-right" to="/pilots">
+			<!-- <router-link class="clipped-bottom-right" to="/pilots">
 					<img src="/icons/pilot.svg" />
 					<span>Pilots</span>
 				</router-link>
 				<router-link class="clipped-bottom-right" to="/events">
 					<img src="/icons/events.svg" />
 					<span>Logs</span>
-				</router-link>
+				</router-link> -->
 			</o-sidebar>
 		</section>
 	</div>
