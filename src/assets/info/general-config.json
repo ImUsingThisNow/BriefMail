@@ -3,7 +3,7 @@
   "planetPath": "/planet.webm",
   "animate": true,
   "defaultTitle": "DeltaSYS/",
-  "icon": "icons/conversation.svg",
+  "icon": "faction-logos/delta.svg",
   "header": {
     "planet": "System Intact",
     "year": "5017u",
